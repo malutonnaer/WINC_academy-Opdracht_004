@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=Dela+Gothic+One&family=Roboto:wght@300&display=swap');
+
+
+
+body {
+    background-color: azure;
+    font-family: 'Roboto', sans-serif;
+    color: blue;
+}
+
+h1 {
+    font-family: 'Dela Gothic One', cursive;
+    color: white;
+    margin-top: 0;
+}
+
+a {
+    text-decoration: none;
+    color: blue;
+    font-family: 'Courier New', Courier, monospace;    
+}
+
+.stamp {
+    border-top: 12px dashed aquamarine;
+    border-bottom: 12px dashed aquamarine;
+}
+
+/* te bewaren css border trick voor een andere keer! */
+/* .angle-1 {
+    width: 4em;
+    border-style: solid;
+    border-width: 0 0.5em 1em 0;
+    border-color: white white #99F white;
+    float: left;
+    clear: left;
+    
+}
+
+.angle-2 {
+    width: 4.5em;
+    border-style: solid;
+    border-width: 0 0.5em 1em 0;
+    border-color: white white blue white;
+    float: left;
+    clear: left;
+    
+}
+
+.angle-3 {
+    width: 5em;
+    border-style: solid;
+    border-width: 0 0.5em 1em 0;
+    border-color: white white violet white;
+    float: left;
+    clear: left;   
+} */   
+
+header {
+    margin-top: 0;
+    color: white;
+    background-color: aquamarine;
+    height: 200px;
+}
+
+footer {
+    color: white;
+    background-color: aquamarine;
+    height: 320px;
+}
